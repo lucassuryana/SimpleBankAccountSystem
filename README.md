@@ -24,6 +24,8 @@ This is a simple C++ project that implements a basic bank account management sys
 
 5. Follow the on-screen instructions to interact with the program.
 
+![Alt Text](media/animation.mov)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
